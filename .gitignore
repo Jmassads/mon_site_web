@@ -1,5 +1,8 @@
 /.DS_Store
 tmp/todo.txt
 tmp/*
+*.xml
 *.txt
 *.test2
+*.test
+
